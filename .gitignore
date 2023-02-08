@@ -1,0 +1,13 @@
+node_modules
+.idea
+.vscode
+.svn
+.svn_ct
+artifacts
+cache
+src/contracts/.deps
+contracts/.deps
+.vscode
+cache 
+test
+.env

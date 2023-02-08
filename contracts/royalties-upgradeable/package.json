@@ -1,0 +1,29 @@
+{
+  "name": "@artlinx/royalties-upgradeable",
+  "version": "0.7.2",
+  "description": "Solidity upgradeable abstract contracts for Artlinx royalties",
+  "files": [
+    "contracts",
+    "readme.md"
+  ],
+  "access": "public",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artlinxcom/protocol-contracts.git"
+  },
+  "keywords": [
+    "ethereum",
+    "truffle",
+    "test"
+  ],
+  "author": "0v1se",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artlinxcom/protocol-contracts/issues"
+  },
+  "homepage": "https://github.com/artlinxcom/protocol-contracts/royalties-upgradeable#readme",
+  "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "3.4.0",
+    "@artlinx/royalties": "^0.7.2"
+  }
+}
